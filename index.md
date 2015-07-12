@@ -10,17 +10,17 @@ header:
    image_fullwidth: "header_unsplash_12.jpg"
 widget-1:
     title: "Blog"
-    url: '/blog/'
+    url: 'blog/'
     text: 'Thoughs on designing distributed systems based on my work for Amazon, Yahoo and Flickr.'
     image: unsplash_9-302x182.jpg
 widget-2:
     title: "Recommendations"
-    url: '/recommendations/'
+    url: 'recommendations/'
     text: 'High quality resources on distributed architecture:<br>* talks<br>* books/articles<br>* projects/tools<br>* and more..'
     image: github-303x182.jpg
 widget-3:
     title: "Having fun"
-    url: 'https://github.com/Phlow/feeling-responsive'
+    url: 'fun/'
     text: 'Building software is fun. Enjoy it!'
     image: unsplash_8-302x182.jpg
 ---
