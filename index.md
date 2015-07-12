@@ -7,7 +7,7 @@
 layout: frontpage
 title: "nort.pl – thoughts on building a high quality distributed software"
 header:
-   image_fullwidth: "header_unsplash_12.jpg"
+   image_fullwidth: "header_unsplash_1.jpg"
 widget-1:
     title: "Blog"
     url: 'blog/'
