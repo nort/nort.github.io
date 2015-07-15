@@ -15,7 +15,7 @@ tags:
 comments: true
 show_meta: false
 ---
-### Goals:
+### TOC:
 * Distributed
 * Easy to edit/preview
 * Validation before push
