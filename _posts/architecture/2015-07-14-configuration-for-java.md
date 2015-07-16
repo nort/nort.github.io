@@ -27,3 +27,9 @@ show_meta: false
 * License: Apache 2.0
 * Supported configuration stores: JDBC, Files
 * Auto reloading: no
+
+### Feature comparison
+
+| xxx | xxx | xxx |
+| --- | --- | --- |
+| abc | def | ghj |
