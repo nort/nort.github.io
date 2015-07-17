@@ -18,18 +18,15 @@ show_meta: false
 
 ### [cfg4j](http://www.cfg4j.org)
 
-* License: Apache 2.0
-* Supported configuration stores: Consul, Git repository, Files, Classpath
-* Auto reloading: yes
-
 ### [Commons Configuration](https://commons.apache.org/proper/commons-configuration/)
-
-* License: Apache 2.0
-* Supported configuration stores: JDBC, Files
-* Auto reloading: no
 
 ### Feature comparison
 
-| xxx | xxx | xxx |
+| Feature | cfg4j | commons configuration |
 | --- | --- | --- |
-| abc | def | ghj |
+| website | [cfg4j.org](http://www.cfg4j.org) | [commons.apache.org](https://commons.apache.org/proper/commons-configuration/) |
+| license | Apache 2.0 | Apache 2.0 |
+| version used | 3.3.2 | 2.0 beta 1 | 
+| supported configuration stores | Consul, Git repository, Files, Classpath | JDBC, Files |
+| configuration reload | periodical, manual | no |
+| caching | yes | yes |
