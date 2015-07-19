@@ -16,9 +16,12 @@ comments: true
 show_meta: false
 ---
 
-### [cfg4j](http://www.cfg4j.org)
+### Contenders
+* [cfg4j](http://www.cfg4j.org) - fairly young project, targeting distributed apps. Supports modern configuration stores like Consul
+and git repositories. Offers interface binding and strongly-typed configuration properties.
 
-### [Commons Configuration](https://commons.apache.org/proper/commons-configuration/)
+* [Commons Configuration](https://commons.apache.org/proper/commons-configuration/) - old and well-known configuration library for Java.
+Focused on reading from local files.
 
 ### Feature comparison
 
@@ -30,3 +33,5 @@ show_meta: false
 | supported configuration stores | Consul, Git repository, Files, Classpath | JDBC, Files |
 | configuration reload | periodical, manual | no |
 | caching | yes | yes |
+| supported file formats | yaml, properties  | properties, xml, ini, openstep |
+| supported data types | BigDecimal, BigInteger, URI, URL, File, Class, Enum, Number, String, most Collection interfaces and classes, most Map interfaces and classes, primitive types, boxed types, arrays | BigDecimal, BigInteger, String, primitive types, boxes types |
