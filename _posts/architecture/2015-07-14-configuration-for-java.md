@@ -31,7 +31,9 @@ Focused on reading from local files.
 | license | Apache 2.0 | Apache 2.0 |
 | version used | 3.3.2 | 2.0 beta 1 | 
 | supported configuration stores | Consul, Git repository, Files, Classpath | JDBC, Files |
-| configuration reload | periodical, manual | no |
-| caching | yes | yes |
 | supported file formats | yaml, properties  | properties, xml, ini, openstep |
 | supported data types | BigDecimal, BigInteger, URI, URL, File, Class, Enum, Number, String, most Collection interfaces and classes, most Map interfaces and classes, primitive types, boxed types, arrays | BigDecimal, BigInteger, String, primitive types, boxes types |
+| accessing configuration | single properties, interface binding | single properties |
+| configuration reload | periodical, manual | no |
+| caching | yes | yes |
+| merge multiple sources | yes | yes |
