@@ -37,3 +37,4 @@ Focused on reading from local files.
 | configuration reload | periodical, manual | no |
 | caching | yes | yes |
 | merge multiple sources | yes | yes |
+| integration with DI containers | yes | yes |
