@@ -39,4 +39,4 @@ Focused on reading from local files.
 | merge multiple sources | yes | yes |
 | integration with DI containers | yes | yes |
 | multi-tenant configurations | yes | yes |
-| code samples | [github](https://github.com/cfg4j/cfg4j-sample-apps) | [blog post](http://www.code-thrill.com/2012/05/configuration-that-rocks-with-apache.html)] |
+| code samples | [github](https://github.com/cfg4j/cfg4j-sample-apps) | [blog post](http://www.code-thrill.com/2012/05/configuration-that-rocks-with-apache.html) |
