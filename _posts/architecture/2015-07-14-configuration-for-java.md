@@ -1,8 +1,8 @@
 ---
 layout: page
 subheadline: "Configuration"
-title: "Comparison of Java apps configuration options"
-teaser: ""
+title: "Comparison of configuration libraries for Java"
+teaser: "Comparison of configuration libraries for Java - cfg4j, commons configuration and others."
 header: no
 image:
     thumb:  typewriter_thumb.jpg
