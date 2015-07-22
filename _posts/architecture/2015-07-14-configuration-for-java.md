@@ -34,7 +34,9 @@ Focused on reading from local files.
 | supported file formats | yaml, properties  | properties, xml, ini, openstep |
 | supported data types | BigDecimal, BigInteger, URI, URL, File, Class, Enum, Number, String, most Collection interfaces and classes, most Map interfaces and classes, primitive types, boxed types, arrays | BigDecimal, BigInteger, String, primitive types, boxes types |
 | accessing configuration | single properties, interface binding | single properties |
-| configuration reload | periodical, manual | no |
+| configuration reload | periodical, manual | periodical, manual |
 | caching | yes | yes |
 | merge multiple sources | yes | yes |
 | integration with DI containers | yes | yes |
+| multi-tenant configurations | yes | yes |
+| code samples | [github](https://github.com/cfg4j/cfg4j-sample-apps) | [blog post](http://www.code-thrill.com/2012/05/configuration-that-rocks-with-apache.html)] |
